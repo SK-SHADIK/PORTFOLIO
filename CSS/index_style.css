@@ -391,7 +391,7 @@ nav .cancel {
     margin-top: 20px;
     padding: 25px 20px;
     border-radius: 20px;
-    background: skyblue;
+    background: rgb(52, 52, 52);
     box-sizing: border-box;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
 }
@@ -400,11 +400,10 @@ h1 {
     margin: 0;
     padding: 0;
     margin-top: 20px;
-    color: #fff;
+    color: lightgreen;
     text-align: center;
     letter-spacing: 2px;
     text-transform: uppercase;
-    text-decoration: underline;
 }
 
 .skillbox {
